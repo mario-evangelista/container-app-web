@@ -27,12 +27,12 @@ docker-compose --version
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/mario-evangelista/container-app-web.git
    ```
    
 2. Navegue até o diretório do projeto:
    ```bash
-   cd SEU_REPOSITORIO
+   cd container-app-web
    ```
 
 3. Suba os containers com o Docker Compose:
