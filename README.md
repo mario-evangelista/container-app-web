@@ -64,6 +64,3 @@ Fique à vontade para abrir issues e fazer pull requests com melhorias ou corre�
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Este `README.md` cobre as informações essenciais sobre o projeto, instruções para rodar o container com Docker Compose e links úteis para quem quiser entender melhor o funcionamento do projeto ou contribuir com ele.
